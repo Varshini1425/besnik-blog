@@ -21,7 +21,7 @@ A sleek, modern landing page for Besnik, a cutting-edge digital marketing and br
 
 ## 🖥️ Preview
 
-![Besnik Landing Page Preview](./images/preview/preview.png)
+![Besnik Landing Page Preview](images/previewImage/preview.png)
 
 
 ## 🚀 Getting Started
